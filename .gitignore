@@ -1,0 +1,15 @@
+target/
+.idea/
+*.log
+*.iml
+*.suo
+*.sqlite3
+[Tt]humbs.db
+[Oo]bj/
+packages/
+.project
+.settings/
+.classpath
+.springBeans
+.DS_Store
+celerybeat-schedule
